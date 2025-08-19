@@ -3,7 +3,7 @@
 import Link from 'next/link';
 
 export default function ProductsPage() {
-  
+  // Sample product data
   const products = [
     { id: 1, name: 'iPhone 15 Pro' },
     { id: 2, name: 'Samsung Galaxy S24' },
